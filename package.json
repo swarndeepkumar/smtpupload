@@ -1,0 +1,22 @@
+{
+  "name": "smtpupload",
+  "version": "1.0.0",
+  "description": "test example to upload on remote server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swarndeepkumar/smtpupload.git"
+  },
+  "author": "swarndeep Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swarndeepkumar/smtpupload/issues"
+  },
+  "homepage": "https://github.com/swarndeepkumar/smtpupload#readme",
+  "dependencies": {
+    "sftp-upload": "0.0.6"
+  }
+}
